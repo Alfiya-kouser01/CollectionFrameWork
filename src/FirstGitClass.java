@@ -4,5 +4,7 @@ public class FirstGitClass {
 
 
         System.out.println("Now I'm inside Feature Branch");
+
+        System.out.println("2nd Commit in feature Branch");
     }
 }
